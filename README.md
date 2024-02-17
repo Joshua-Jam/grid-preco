@@ -1,1 +1,1 @@
-# grid-preco
+Página simples com as opções de pagamente de um serviço.
