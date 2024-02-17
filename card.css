@@ -1,0 +1,40 @@
+.card {
+    width: 25%;
+    height: 60%;
+    background-color: white;
+    padding: 1rem;
+    display: flex;
+    border-radius: 1rem;
+    border: 2px solid black;
+    flex-direction: column;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.card_image {
+    display: flex;
+    justify-content: center;
+    height: 40%;
+}
+
+.card_image_img {
+    border: 1px black solid;
+    width: 90%;
+    border-radius: 1rem;
+}
+
+.card_textbox {
+    padding: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card_textbox_title {
+    font-size: 3rem;
+}
+
+.card_textbox_description {
+    font-size: 2rem;
+}
+
+.card_textbox_by {
+    margin-top: 10rem;
+}
