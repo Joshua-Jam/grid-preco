@@ -4,3 +4,26 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.tabela {
+    width: 35%;
+    height: 40%;
+    border-radius: 1rem;
+    border: 2px solid black;
+}
+
+.tabela_baixo {
+    display: flex;
+}
+
+.tabela_info {
+    padding: 5%;
+    background-color: aquamarine;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+.tabela_info h1 {
+    font-size: xx-large;
+    font-weight: bold;
+}
